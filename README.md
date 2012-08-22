@@ -15,3 +15,9 @@
 		~ "Just Type" to search for your favorite radio station/song
 		~ Use Exhibition Mode to have the Album Art display as your HP Device rests on its TouchStone
 		~ Sync and listen to your Ampache Server
+		==============
+YOUR RADIO IS CURRENTLY IN ALPAH TESTING STAGES AND IS NOT TO BE CONCIDERED READY FOR DAILY USE. YOUR RADIO CAN AND WILL HAVE BUGS, SOME MAY BE FATAL TO THE APPLICATION.
+PLEASE REPORT ALL BUGS TO patrickappcreator@gmail.com WITH [BUG] IN THE SUBJECT.
+
+==============
+THIS APPLICATION IS DESIGNED TO BE USED BY AUTHORIZED MEMBERS OF THE PHOENIX INTERNATIONAL COMMUNICATIONS TEAM ONLY. ANY OTHER USERS ARE PROHIBITED

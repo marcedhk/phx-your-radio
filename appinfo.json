@@ -1,0 +1,10 @@
+{
+	"id": "com.phoenixinternational.yourradio-testing",
+	"version": "0.0.1",
+	"vendor": "Phoenix International & Off the Wing Apps",
+	"type": "web",
+	"main": "index.html",
+	"title": "Your Radio",
+	"icon": "icon.png",
+	"uiRevision":2
+}
