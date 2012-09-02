@@ -1,0 +1,22 @@
+How to set up a webOS Build enviornment in Windows:
+
+Download Sublime Text 2 ( http://www.sublimetext.com/ ), and set it as the default handler for .js files, .json files, and .css files.
+
+Download and install Chrome web browser to use for debugging (we will not be packaging for webOS for a while, all development will be done in Chrome for now)
+Use the command line and launch Chrome with the following arguments: --allow-file-access-from-files --disable-web-security
+
+
+How to set up a build enviornment in OS X:
+Download Sublime Text 2 ( http://www.sublimetext.com/ ), and set it as the default handler for .js files, .json files, and .css files.
+
+Download and install Chrome web browser to use for debugging (we will not be packaging for webOS for a while, all development will be done in Chrome for now)
+Use the command line and launch Chrome with the following arguments: --allow-file-access-from-files --disable-web-security
+Download MAMP, not MAMP PRO ( http://www.mamp.info/en/index.html ), make sure to tell MAMP not to use MAMP PRO, you want to use MAMP FREE
+Configure MAMP to point to the directory you have the Your Radio files in, then launch Chrome with the above arguments, and navigate to localhost:8888
+
+How to set up a build enviornment in Linux:
+
+Download Sublime Text 2 ( http://www.sublimetext.com/ ), and set it as the default handler for .js files, .json files, and .css files.
+
+Download and install Chrome web browser to use for debugging (we will not be packaging for webOS for a while, all development will be done in Chrome for now)
+Use the command line and launch Chrome with the following arguments: --allow-file-access-from-files --disable-web-security
